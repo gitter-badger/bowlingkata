@@ -6,3 +6,6 @@
 .gitignore
 .git
 .hg
+nbproject/private/
+build/
+
