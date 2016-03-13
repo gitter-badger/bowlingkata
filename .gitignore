@@ -1,1 +1,7 @@
-.hgignore
+project/
+target/
+.hg/
+*.ipr
+*.iml
+*.iws
+
