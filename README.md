@@ -1,6 +1,8 @@
 bowlingkata
 ===========
 
+[![Join the chat at https://gitter.im/barkhorn/bowlingkata](https://badges.gitter.im/barkhorn/bowlingkata.svg)](https://gitter.im/barkhorn/bowlingkata?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 sample solution for the JUnit scenario at http://www.cyber-dojo.com/
 
 [![Build Status](https://travis-ci.org/barkhorn/bowlingkata.png?branch=master)](https://travis-ci.org/barkhorn/bowlingkata)
